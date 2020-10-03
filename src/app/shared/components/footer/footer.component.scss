@@ -1,0 +1,28 @@
+$background_footer: #004B91;
+
+.footer_get {
+    background-color: $background_footer;
+    height: 250px;
+}
+
+.container-footer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  height: auto;
+}
+
+.left {
+  width: 50%;
+  justify-content: center;
+  display: flex;
+}
+.right {
+  width: 50%;
+  justify-content: center;
+  display: flex;
+}
+.right p {
+  color: white;
+}

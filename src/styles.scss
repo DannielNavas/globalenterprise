@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+
+$margintop: 0.25rem;
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.text-white{
+    color: #ffffff;
+}
+
+.w-100 {
+    width: 100%;
+}
+.w-75 {
+    width: 75%;
+}
+.w-50 {
+    width: 50%;
+}
+.w-25 {
+    width: 25%;
+}
+
+.mt-1 {
+    margin-top: $margintop;
+}
+
+.mt-2 {
+    margin-top: $margintop * 10;
+}
+.text-white {
+    color: #ffffff;
+}

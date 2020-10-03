@@ -1,0 +1,9 @@
+$banner-height: 550px;
+
+.bg-get {
+    background-image: url('/assets/img/seguros/segurosbanner.png');
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: $banner-height;
+}
